@@ -54,3 +54,8 @@ align="left"
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0nteiroGuilherme&show_icons=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0nteiroGuilherme&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
