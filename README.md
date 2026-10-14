@@ -6,7 +6,7 @@ Meu nome é Guilherme Monteiro, tenho 20 anos e cursei Análise e Desenvolviment
 
 ---
 
-## liguagem e  tecnologias 
+## liguagens e Tecnologias 
 
 <img 
     align="left" 
