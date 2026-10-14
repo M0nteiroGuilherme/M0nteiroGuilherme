@@ -1,8 +1,8 @@
 # Guilherme Monteiro
 
-**`estudante de analise e desenvolvimento de sistemas`**
+**`estudante de Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Guilherme Monteiro, tenho 19 anos e cursei Análise e Desenvolvimento de Sistemas por três anos no CEEP, juntamente com o ensino médio, período no qual desenvolvi conhecimentos técnicos e práticos na área. Após a conclusão, ingressei na faculdade de Análise e Desenvolvimento de Sistemas na POSITIVO, onde estudo atualmente.
+Meu nome é Guilherme Monteiro, tenho 20 anos e cursei Análise e Desenvolvimento de Sistemas por três anos no CEEP, juntamente com o ensino médio, período no qual desenvolvi conhecimentos técnicos e práticos na área. Após a conclusão, ingressei na faculdade de Análise e Desenvolvimento de Sistemas na POSITIVO, onde estudo atualmente.
 
 ---
 
