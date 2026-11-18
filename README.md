@@ -31,9 +31,9 @@
 
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn]([https://www.linkedin.com/in/andrade-guilherme-monteiro/])]([https://www.linkedin.com/in/andrade-guilherme-monteiro/])
-[![YouTube]([suspicious link removed])]([suspicious link removed])
-[![Instagram]([suspicious link removed])]([suspicious link removed])
+[![LinkedIn]([suspicious link removed])](https://www.linkedin.com/in/andrade-guilherme-monteiro/)
+[![YouTube]([suspicious link removed])](https://www.youtube.com/@Monteiro_GuilhermeDEV)
+[![Instagram]([suspicious link removed])](https://www.instagram.com/monteiro_guilherme_?fqnt=YW5tYWo5YnV5Z2o3)
 
 ---
 
