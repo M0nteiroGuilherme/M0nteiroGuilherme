@@ -1,59 +1,45 @@
-# Guilherme Monteiro
+# Hi there, I'm Guilherme Monteiro 👋
 
-**`estudante de Análise e Desenvolvimento de Sistemas`**
-
-Meu nome é Guilherme Monteiro, tenho 20 anos e cursei Análise e Desenvolvimento de Sistemas por três anos no CEEP, juntamente com o ensino médio, período no qual desenvolvi conhecimentos técnicos e práticos na área. Após a conclusão, ingressei na faculdade de Análise e Desenvolvimento de Sistemas na POSITIVO, onde estudo atualmente.
+### 🚀 Desenvolvedor de Software | Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
-## liguagens e Tecnologias 
+### 👨‍💻 Sobre Mim
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" 
-/>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Positivo** (2025–2027), com sólida base técnica construída no **CEP**.
+- 💡 Perfil focado na resolução lógica de problemas, aprendizado autodidata contínuo e desenvolvimento de soluções eficientes.
+- 🎯 **Objetivo Profissional:** Atuar como **Desenvolvedor de Software** (Front-End / Back-End) e construir soluções corporativas robustas.
+- 🔍 **Áreas de Interesse:** Desenvolvimento Back-End (C#, Java, Python), Bancos de Dados SQL, Desenvolvimento Web (JavaScript, Angular) e **Cibersegurança Defensiva** (Kali Linux e segurança de sistemas).
 
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+---
 
-<img 
-align="left" 
-    alt="SQL"
-    title="SQL  " 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+### 🛠️ Linguagens e Tecnologias
 
-<img 
-align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+![HTML5]([suspicious link removed])
+![CSS3]([suspicious link removed])
+![JavaScript]([suspicious link removed])
+![Angular]([suspicious link removed])
+![Java]([suspicious link removed])
+![C#]([suspicious link removed])
+![Python]([suspicious link removed])
+![SQL]([suspicious link removed])
+![Git]([suspicious link removed])
+![GitHub]([suspicious link removed])
+![Linux]([suspicious link removed])
 
-<img 
-align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+---
 
-<img
-align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+### 🌐 Conecte-se Comigo
 
+[![LinkedIn]([https://www.linkedin.com/in/andrade-guilherme-monteiro/])]([https://www.linkedin.com/in/andrade-guilherme-monteiro/])
+[![YouTube]([suspicious link removed])]([suspicious link removed])
+[![Instagram]([suspicious link removed])]([suspicious link removed])
 
+---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="[suspicious link removed]" alt="Estatísticas do GitHub" width="48%" />
+  <img src="[suspicious link removed]" alt="Linguagens mais usadas" width="48%" />
+</p>
